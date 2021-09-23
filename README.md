@@ -10,3 +10,5 @@ There are currently two instances hosted on the web:
 
 A similar IXN Portal site was developed for IBM. This achieves the same functionality as above, but without a database. Its repository is [here](https://github.com/JordanJWSmith/ibm_ixn).
 
+This project was developed in a team of three for UCL during the MSc Computer Science course.
+
